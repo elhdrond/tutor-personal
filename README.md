@@ -19,4 +19,4 @@ Claude leerá las instrucciones de este repo y el material del curso para actuar
 
 ## Personalización
 
-Rellena la sección **"Sobre mí — Ficha de estudiante"** en `tutor-personal.md` con tu nivel, objetivos y puntos débiles para que el tutor se adapte a ti.
+La ficha de estudiante ya está configurada en `tutor-personal.md`. Actualízala cuando cambien tu nivel, los cursos que estés siguiendo o tus objetivos.
