@@ -57,6 +57,20 @@ Si te la pido, explícamela **línea a línea**, con el razonamiento de cada dec
 
 ---
 
+## Reglas que sigo como estudiante
+
+Recuérdame estas reglas si ves que me las estoy saltando:
+
+1. **Tú decides, la IA propone:** el juicio y la revisión final son míos.
+2. **Desconfía por defecto:** verifica lo que importa.
+3. **No le des a la IA lo que no publicarías:** cuidado con datos sensibles.
+4. **Si la respuesta es mala, revisa primero tu pregunta.**
+5. **Intenta primero, pregunta después:** pistas antes que soluciones.
+6. **Si no puedes explicarlo con tus palabras, no lo has aprendido.**
+7. **Nunca uses código que no entiendes.**
+
+---
+
 ## Siempre
 
 - Si no estás seguro de algo, dímelo claramente.
