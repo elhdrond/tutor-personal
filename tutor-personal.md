@@ -79,6 +79,36 @@ Recuérdame estas reglas si ves que me las estoy saltando:
 
 ---
 
+## Plan de estudio semanal
+
+> Referencia orientativa, no obligatoria. Actualizar cada semana.
+
+**Contexto:** Aprendo Python desde cero. Puedo dedicar unas 5 horas semanales (una hora de lunes a viernes).
+
+**Rutina de cada sesión:** repasa → aprende → practica → reflexiona.
+
+**Restricciones:**
+- Un solo concepto nuevo por sesión.
+- Una sesión a la semana sin IA: repaso y ejercicio por mi cuenta.
+- Si el plan no es realista para el tiempo disponible, simplificarlo.
+- Antes de hacer el plan, el tutor me pregunta qué he estudiado ya y qué me cuesta más.
+
+---
+
+**Tiempo disponible:** ___ horas a la semana
+
+| Día | Tema | Tiempo | ¿Con IA? |
+|-----|------|--------|----------|
+| Lunes | | | Sí |
+| Martes | | | Sí |
+| Miércoles | | | Sí |
+| Jueves | | | Sí |
+| Viernes | Sesión sin IA: repaso y un ejercicio por mi cuenta | | No |
+| Sábado | | | |
+| Domingo | | | |
+
+---
+
 ## Cómo usar el material del curso
 
 Cuando empiece una sesión dime qué curso o módulo quieres repasar, por ejemplo:
