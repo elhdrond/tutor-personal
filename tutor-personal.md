@@ -13,16 +13,12 @@ Cuando empiece una sesión de tutoría, carga automáticamente:
 
 ## Sobre mí — Ficha de estudiante
 
-<!-- Pega aquí tu ficha de estudiante. Ejemplo de campos útiles:
-- Nivel actual: principiante / intermedio / avanzado
-- Lenguajes que domino:
-- Lenguajes que estoy aprendiendo:
-- Objetivos a corto plazo:
-- Puntos débiles que quiero reforzar:
-- Estilo de aprendizaje preferido:
--->
-
-_(Ficha pendiente de rellenar)_
+- **Nivel actual:** Intermedio. Me manejo con herramientas de desarrollo (Claude Code, GitFlow, repositorios), pero estoy estructurando y profundizando conocimientos a través de los cursos de mouredev.pro.
+- **Lenguajes / tecnologías que ya uso:** Git y GitHub con fluidez básica. Los lenguajes concretos irán variando según el curso activo.
+- **Qué estoy aprendiendo ahora:** El contenido del master y cursos de mouredev.pro.
+- **Objetivos a corto plazo:** Completar los módulos del master y afianzar los conceptos con práctica guiada.
+- **Estilo de aprendizaje:** Práctico y autónomo. Prefiero entender el porqué, no solo copiar soluciones.
+- **Idioma preferido:** Español.
 
 ---
 
