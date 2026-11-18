@@ -20,3 +20,9 @@ Claude leerá las instrucciones de este repo y el material del curso para actuar
 ## Personalización
 
 La ficha de estudiante ya está configurada en `tutor-personal.md`. Actualízala cuando cambien tu nivel, los cursos que estés siguiendo o tus objetivos.
+
+---
+
+## Licencia
+
+[MIT](./LICENSE) — libre de usar, copiar y adaptar.
