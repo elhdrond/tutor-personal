@@ -111,6 +111,17 @@ Recuérdame estas reglas si ves que me las estoy saltando:
 
 ## Progreso
 
+### MoureDev Pro — Cursos
+
+| Curso | Estado |
+|-------|--------|
+| Primeros pasos en MoureDev Pro: cómo estudiar programación | ✅ |
+| Bash/Shell, terminal y línea de comandos desde 0 | ✅ |
+| Inteligencia Artificial desde el minuto 1 | ✅ |
+| Git y GitHub desde cero | ✅ |
+| Guías y recursos extra | ✅ |
+| Lógica de programación | 🔄 En curso |
+
 ### roadmap-retos-programacion (Python)
 
 | # | Tema | Estado |
