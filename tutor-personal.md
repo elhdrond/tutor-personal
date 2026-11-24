@@ -124,6 +124,8 @@ Recuérdame estas reglas si ves que me las estoy saltando:
 
 ### roadmap-retos-programacion (Python)
 
+**Fundamentos (00–10)** ✅ Completados
+
 | # | Tema | Estado |
 |---|------|--------|
 | 00 | Sintaxis, variables, tipos de datos y hola mundo | ✅ |
@@ -137,8 +139,26 @@ Recuérdame estas reglas si ves que me las estoy saltando:
 | 08 | Clases | ✅ |
 | 09 | Herencia | ✅ |
 | 10 | Excepciones | ✅ |
+
+**Básicos (11–19)** 🔄 En curso
+
+| # | Tema | Estado |
+|---|------|--------|
 | 11 | Manejo de ficheros | ✅ |
-| 12 | JSON y XML | 🔜 |
+| 12 | JSON y XML | ✅ |
+| 13 | Pruebas unitarias | ✅ |
+| 14 | Fechas | ✅ |
+| 15 | Asincronía | 🔜 |
+| 16 | Expresiones regulares | 🔜 |
+| 17 | Iteraciones | 🔜 |
+| 18 | Conjuntos | 🔜 |
+| 19 | Enumeraciones | 🔜 |
+
+**Intermedios (20–25)** ⏳ Pendiente
+
+**Principios SOLID (26–30)** ⏳ Pendiente
+
+**Avanzados (31–50)** ⏳ Pendiente
 
 > Actualizar tras cada sesión.
 
