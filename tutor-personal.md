@@ -109,6 +109,30 @@ Recuérdame estas reglas si ves que me las estoy saltando:
 
 ---
 
+## Progreso
+
+### roadmap-retos-programacion (Python)
+
+| # | Tema | Estado |
+|---|------|--------|
+| 00 | Sintaxis, variables, tipos de datos y hola mundo | ✅ |
+| 01 | Operadores y estructuras de control | ✅ |
+| 02 | Funciones y alcance | ✅ |
+| 03 | Estructuras de datos | ✅ |
+| 04 | Cadenas de caracteres | ✅ |
+| 05 | Valor y referencia | ✅ |
+| 06 | Recursividad | ✅ |
+| 07 | Pilas y colas | ✅ |
+| 08 | Clases | ✅ |
+| 09 | Herencia | ✅ |
+| 10 | Excepciones | ✅ |
+| 11 | Manejo de ficheros | ✅ |
+| 12 | JSON y XML | 🔜 |
+
+> Actualizar tras cada sesión.
+
+---
+
 ## Cómo usar el material del curso
 
 Cuando empiece una sesión dime qué curso o módulo quieres repasar, por ejemplo:
