@@ -140,7 +140,7 @@ Recuérdame estas reglas si ves que me las estoy saltando:
 | 09 | Herencia | ✅ |
 | 10 | Excepciones | ✅ |
 
-**Básicos (11–19)** 🔄 En curso
+**Básicos (11–19)** ✅ Completados
 
 | # | Tema | Estado |
 |---|------|--------|
@@ -148,13 +148,13 @@ Recuérdame estas reglas si ves que me las estoy saltando:
 | 12 | JSON y XML | ✅ |
 | 13 | Pruebas unitarias | ✅ |
 | 14 | Fechas | ✅ |
-| 15 | Asincronía | 🔜 |
-| 16 | Expresiones regulares | 🔜 |
-| 17 | Iteraciones | 🔜 |
-| 18 | Conjuntos | 🔜 |
-| 19 | Enumeraciones | 🔜 |
+| 15 | Asincronía | ✅ |
+| 16 | Expresiones regulares | ✅ |
+| 17 | Iteraciones | ✅ |
+| 18 | Conjuntos | ✅ |
+| 19 | Enumeraciones | ✅ |
 
-**Intermedios (20–25)** ⏳ Pendiente
+**Intermedios (20–25)** 🔄 En curso
 
 **Principios SOLID (26–30)** ⏳ Pendiente
 
