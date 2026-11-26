@@ -154,11 +154,11 @@ Recuérdame estas reglas si ves que me las estoy saltando:
 | 18 | Conjuntos | ✅ |
 | 19 | Enumeraciones | ✅ |
 
-**Intermedios (20–25)** 🔄 En curso
+**Intermedios (20–25)** ✅ Completados
 
 > 💡 Durante el ejercicio 23 (Singleton) surgió interés en profundizar en patrones de diseño.
 
-**Principios SOLID (26–30)** ⏳ Pendiente
+**Principios SOLID (26–30)** 🔄 En curso
 
 **Avanzados (31–50)** ⏳ Pendiente
 
