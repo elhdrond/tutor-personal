@@ -126,39 +126,21 @@ Recuérdame estas reglas si ves que me las estoy saltando:
 
 **Fundamentos (00–10)** ✅ Completados
 
-| # | Tema | Estado |
-|---|------|--------|
-| 00 | Sintaxis, variables, tipos de datos y hola mundo | ✅ |
-| 01 | Operadores y estructuras de control | ✅ |
-| 02 | Funciones y alcance | ✅ |
-| 03 | Estructuras de datos | ✅ |
-| 04 | Cadenas de caracteres | ✅ |
-| 05 | Valor y referencia | ✅ |
-| 06 | Recursividad | ✅ |
-| 07 | Pilas y colas | ✅ |
-| 08 | Clases | ✅ |
-| 09 | Herencia | ✅ |
-| 10 | Excepciones | ✅ |
-
 **Básicos (11–19)** ✅ Completados
-
-| # | Tema | Estado |
-|---|------|--------|
-| 11 | Manejo de ficheros | ✅ |
-| 12 | JSON y XML | ✅ |
-| 13 | Pruebas unitarias | ✅ |
-| 14 | Fechas | ✅ |
-| 15 | Asincronía | ✅ |
-| 16 | Expresiones regulares | ✅ |
-| 17 | Iteraciones | ✅ |
-| 18 | Conjuntos | ✅ |
-| 19 | Enumeraciones | ✅ |
 
 **Intermedios (20–25)** ✅ Completados
 
 > 💡 Durante el ejercicio 23 (Singleton) surgió interés en profundizar en patrones de diseño.
 
 **Principios SOLID (26–30)** 🔄 En curso
+
+| # | Tema | Estado |
+|---|------|--------|
+| 26 | SOLID SRP | 🔜 |
+| 27 | SOLID OCP | 🔜 |
+| 28 | SOLID LSP | 🔜 |
+| 29 | SOLID ISP | 🔜 |
+| 30 | SOLID DIP | 🔜 |
 
 **Avanzados (31–50)** ⏳ Pendiente
 
