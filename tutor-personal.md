@@ -154,13 +154,31 @@ Recuérdame estas reglas si ves que me las estoy saltando:
 | 18 | Conjuntos | ✅ |
 | 19 | Enumeraciones | ✅ |
 
-**Intermedios (20–25)** 🔄 En curso
+**Intermedios (20–25)** ✅ Completados
 
-**Principios SOLID (26–30)** ⏳ Pendiente
+> 💡 Durante el ejercicio 23 (Singleton) surgió interés en profundizar en patrones de diseño.
+
+**Principios SOLID (26–30)** 🔄 En curso
 
 **Avanzados (31–50)** ⏳ Pendiente
 
 > Actualizar tras cada sesión.
+
+---
+
+## Futuro aprendizaje
+
+| Tema | Por qué | Recurso |
+|------|---------|---------|
+| Patrones de diseño | Profundizar más allá del roadmap (Singleton, Factory, Observer...) | [refactoring.guru](https://refactoring.guru/) |
+
+---
+
+## Recursos recomendados
+
+| Recurso | Descripción |
+|---------|-------------|
+| [refactoring.guru](https://refactoring.guru/) | Patrones de diseño con ejemplos visuales y en múltiples lenguajes |
 
 ---
 
